@@ -1,5 +1,16 @@
 # @solana/rpc-types
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/addresses@2.0.0-preview.6
+    -   @solana/codecs-core@2.0.0-preview.6
+    -   @solana/codecs-numbers@2.0.0-preview.6
+    -   @solana/codecs-strings@2.0.0-preview.6
+    -   @solana/errors@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

@@ -1,5 +1,21 @@
 # @solana/rpc
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   [#2910](https://github.com/solana-labs/solana-web3.js/pull/2910) [`42a70f4`](https://github.com/solana-labs/solana-web3.js/commit/42a70f4c3004e55fe6ce5a8e500f5610765ec66f) Thanks [@Jac0xb](https://github.com/Jac0xb)! - Fixed a bug where the RPC would fail to throw errors in the event that you configured it with an `AbortSignal`
+
+-   Updated dependencies []:
+    -   @solana/rpc-api@2.0.0-preview.6
+    -   @solana/errors@2.0.0-preview.6
+    -   @solana/fast-stable-stringify@2.0.0-preview.6
+    -   @solana/functional@2.0.0-preview.6
+    -   @solana/rpc-spec@2.0.0-preview.6
+    -   @solana/rpc-transformers@2.0.0-preview.6
+    -   @solana/rpc-transport-http@2.0.0-preview.6
+    -   @solana/rpc-types@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes
