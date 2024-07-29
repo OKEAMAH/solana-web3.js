@@ -1,5 +1,16 @@
 # @solana/compat
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/transactions@2.0.0-preview.6
+    -   @solana/addresses@2.0.0-preview.6
+    -   @solana/codecs-core@2.0.0-preview.6
+    -   @solana/errors@2.0.0-preview.6
+    -   @solana/keys@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

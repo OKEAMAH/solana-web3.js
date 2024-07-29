@@ -1,5 +1,20 @@
 # @solana/transaction-confirmation
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   Updated dependencies [[`42a70f4`](https://github.com/solana-labs/solana-web3.js/commit/42a70f4c3004e55fe6ce5a8e500f5610765ec66f), [`419c12e`](https://github.com/solana-labs/solana-web3.js/commit/419c12e617435570d0cded6ca6d35370d0060da7)]:
+    -   @solana/rpc@2.0.0-preview.6
+    -   @solana/transaction-messages@2.0.0-preview.6
+    -   @solana/transactions@2.0.0-preview.6
+    -   @solana/rpc-subscriptions@2.0.0-preview.6
+    -   @solana/addresses@2.0.0-preview.6
+    -   @solana/codecs-strings@2.0.0-preview.6
+    -   @solana/errors@2.0.0-preview.6
+    -   @solana/keys@2.0.0-preview.6
+    -   @solana/rpc-types@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

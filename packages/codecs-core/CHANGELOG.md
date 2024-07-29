@@ -1,5 +1,12 @@
 # @solana/codecs-core
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/errors@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

@@ -1,5 +1,7 @@
 # @solana/webcrypto-ed25519-polyfill
 
+## 2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

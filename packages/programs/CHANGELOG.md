@@ -1,5 +1,15 @@
 # @solana/programs
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   [#2968](https://github.com/solana-labs/solana-web3.js/pull/2968) [`9239e6e`](https://github.com/solana-labs/solana-web3.js/commit/9239e6ec972b4de9f0d15b197fbef1d2871759d9) Thanks [@lorisleiva](https://github.com/lorisleiva)! - Tighten return type of isProgramError
+
+-   Updated dependencies []:
+    -   @solana/addresses@2.0.0-preview.6
+    -   @solana/errors@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

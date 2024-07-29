@@ -1,5 +1,12 @@
 # @solana/rpc-spec
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/rpc-spec-types@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

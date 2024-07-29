@@ -1,5 +1,13 @@
 # @solana/rpc-subscriptions-transport-websocket
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/errors@2.0.0-preview.6
+    -   @solana/rpc-subscriptions-spec@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes

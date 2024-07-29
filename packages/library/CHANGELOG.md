@@ -1,5 +1,28 @@
 # @solana/web3.js-experimental
 
+## 2.0.0-preview.6
+
+### Patch Changes
+
+-   Updated dependencies [[`42a70f4`](https://github.com/solana-labs/solana-web3.js/commit/42a70f4c3004e55fe6ce5a8e500f5610765ec66f), [`419c12e`](https://github.com/solana-labs/solana-web3.js/commit/419c12e617435570d0cded6ca6d35370d0060da7), [`9239e6e`](https://github.com/solana-labs/solana-web3.js/commit/9239e6ec972b4de9f0d15b197fbef1d2871759d9)]:
+    -   @solana/rpc@2.0.0-preview.6
+    -   @solana/transaction-messages@2.0.0-preview.6
+    -   @solana/programs@2.0.0-preview.6
+    -   @solana/transaction-confirmation@2.0.0-preview.6
+    -   @solana/signers@2.0.0-preview.6
+    -   @solana/transactions@2.0.0-preview.6
+    -   @solana/sysvars@2.0.0-preview.6
+    -   @solana/rpc-subscriptions@2.0.0-preview.6
+    -   @solana/accounts@2.0.0-preview.6
+    -   @solana/addresses@2.0.0-preview.6
+    -   @solana/codecs@2.0.0-preview.6
+    -   @solana/errors@2.0.0-preview.6
+    -   @solana/functional@2.0.0-preview.6
+    -   @solana/instructions@2.0.0-preview.6
+    -   @solana/keys@2.0.0-preview.6
+    -   @solana/rpc-parsed-types@2.0.0-preview.6
+    -   @solana/rpc-types@2.0.0-preview.6
+
 ## 2.0.0-preview.5
 
 ### Patch Changes
